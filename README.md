@@ -23,6 +23,28 @@ Build Project
 
 ![Screenshot](prtsc/Jenkins-Nexus-1.3.png)
 
+pom.xml file
+
+![Screenshot](prtsc/Jenkins-Nexus-1.4.png)
+
+### 2.- Create Nexus Repository 
+
+![Screenshot](prtsc/Jenkins-Nexus-2.png)
+
+Hosted (Maven2)
+
+![Screenshot](prtsc/Jenkins-Nexus-2.1.png)
+
+Create Repository Snapshot
+
+![Screenshot](prtsc/Jenkins-Nexus-2.2.png)
+
+Create Repository Release
+
+![Screenshot](prtsc/Jenkins-Nexus-2.3.png)
+
+![Screenshot](prtsc/Jenkins-Nexus-2.4.png)
+
 
 
 
