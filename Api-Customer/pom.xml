@@ -35,6 +35,19 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>deployment-nexus</id>
+            <name>nexus-release</name>
+            <url>http://172.17.0.2:8081/nexus/content/repositories/nexus-release/</url>
+        </repository>
+        <snapshotRepository>
+            <id>deployment-nexus</id>
+            <name>nexus-snapshot</name>
+            <url>http://172.17.0.2:8081/nexus/content/repositories/nexus-snapshot/</url>
+        </snapshotRepository>
+    </distributionManagement>
+
     <build>
         <plugins>
             <plugin>
