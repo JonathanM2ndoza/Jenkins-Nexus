@@ -45,6 +45,28 @@ Create Repository Release
 
 ![Screenshot](prtsc/Jenkins-Nexus-2.4.png)
 
+### 3.- Update pom.xml file with Repository Snapshot and Repository Release
+
+![Screenshot](prtsc/Jenkins-Nexus-3.png)
+
+### 4.- Update settings.xml file in /var/lib/jenkins/.m2/ with nexus credentials
+
+![Screenshot](prtsc/Jenkins-Nexus-4.png)
+
+### 5.- Add task deploy Maven in Jenkins (Goals)
+
+![Screenshot](prtsc/Jenkins-Nexus-5.png)
+
+Build Project in Jenkins
+
+![Screenshot](prtsc/Jenkins-Nexus-5.1.png)
+
+See the file api-customer-2.0-SNAPSHOT.jar in Nexus
+![Screenshot](prtsc/Jenkins-Nexus-5.2.png)
+
+
+
+
 
 
 
