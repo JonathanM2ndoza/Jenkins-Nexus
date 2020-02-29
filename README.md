@@ -61,7 +61,7 @@ Build Project in Jenkins
 
 ![Screenshot](prtsc/Jenkins-Nexus-5.1.png)
 
-See the file api-customer-2.0-SNAPSHOT.jar in Nexus
+Check the file api-customer-2.0-SNAPSHOT.jar in Nexus
 
 ![Screenshot](prtsc/Jenkins-Nexus-5.2.png)
 
