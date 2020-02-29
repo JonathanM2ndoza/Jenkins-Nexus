@@ -65,6 +65,12 @@ Check the file api-customer-2.0-SNAPSHOT.jar in Nexus
 
 ![Screenshot](prtsc/Jenkins-Nexus-5.2.png)
 
+Another version of api-customer
+
+![Screenshot](prtsc/Jenkins-Nexus-5.3.png)
+
+![Screenshot](prtsc/Jenkins-Nexus-5.4.png)
+
 
 
 
